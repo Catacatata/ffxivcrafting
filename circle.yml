@@ -1,0 +1,8 @@
+machine:
+  php:
+    version: 5.6.5
+  environment:
+    CDN_URL: acd84eeb1b7b98b2dec5-9f5608ae56f41b0c88d873b8b4c5cc36.r22.cf2.rackcdn.com
+    CDN_ASSET_URL: c3dcd810e2e5862353ca-bc79add51f9bad46177fcbc8055b750c.r72.cf2.rackcdn.com
+  services:
+    - mysql
